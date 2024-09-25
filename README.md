@@ -45,8 +45,8 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub](https://github.com/MesrouaDjamel/bookmark-landing-page)
-- Live Site URL: [Vercel](https://landing-page-loopstudio-mesroua-djamels-projects.vercel.app/)
-- FrontEndMentor: [FrontEndMentor](https://www.frontendmentor.io/solutions/responsive-landing-page-using-grid--nVnYsoQqi)
+- Live Site URL: [Vercel](https://bookmark-landing-page-mesroua-djamels-projects.vercel.app/)
+- FrontEndMentor: [FrontEndMentor](https://www.frontendmentor.io/solutions/bookmark-landing-page-using-flexbox-vRsGaU6Wpz)
 
 ## My process
 I started the project using npx create-next-app@latest we configured the project following the instructions (use typescript, use tailwindscss, use app router...).
